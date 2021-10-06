@@ -3,8 +3,10 @@ import React from "react";
 
 function Header() {
   return (
-    <header className="jumbotron">
-      <h1>Nicholas Chin</h1>
+    <header className="jumbotron jumbotron-fluid m-0">
+      <div className="container">
+        <h1 className="display-4 text-center">Nicholas Chin</h1>
+      </div>
     </header>
   );
 }
