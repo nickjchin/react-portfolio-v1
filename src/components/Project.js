@@ -15,17 +15,27 @@ function Project() {
               <h4>Baseball Direct</h4>
             </div>
             <img
-              src={"https://nickjchin.github.io/my-portfolio/assets/images/baseball-direct-snippet.PNG"}
+              src={
+                "https://nickjchin.github.io/my-portfolio/assets/images/baseball-direct-snippet.PNG"
+              }
               alt="screenshot of baseball direct"
               className="img-responsive"
             />
             <div className="card-body">
               <p className="card-text">Description:</p>
               <p className="card-text">Group project using multiple APIs and Bulma</p>
-              <a href="#" className="btn btn-primary mr-1">
+              <a
+                href="https://mrohmann.github.io/BaseballDirect/"
+                target="_blank"
+                className="btn btn-primary mr-1"
+              >
                 Live Production
               </a>
-              <a href="#" className="btn btn-primary">
+              <a
+                href="https://github.com/mrohmann/BaseballDirect"
+                target="_blank"
+                className="btn btn-primary"
+              >
                 Source Code
               </a>
             </div>
@@ -49,10 +59,18 @@ function Project() {
                 allows the user to create an account, login, save a list of apps to their watchlist,
                 and view tweets and stock information
               </p>
-              <a href="#" className="btn btn-primary mr-1">
+              <a
+                href="https://stock-shout.herokuapp.com/"
+                target="_blank"
+                className="btn btn-primary mr-1"
+              >
                 Live Production
               </a>
-              <a href="#" className="btn btn-primary">
+              <a
+                href="https://github.com/nickjchin/stock-shout"
+                target="_blank"
+                className="btn btn-primary"
+              >
                 Source Code
               </a>
             </div>
@@ -74,10 +92,18 @@ function Project() {
               <p className="card-text">
                 Created using third party APIs like Moment.js, Twitter-Bootstrap, and Google Fonts
               </p>
-              <a href="#" className="btn btn-primary mr-1">
+              <a
+                href="https://nickjchin.github.io/work-day-scheduler"
+                target="_blank"
+                className="btn btn-primary mr-1"
+              >
                 Live Production
               </a>
-              <a href="#" className="btn btn-primary">
+              <a
+                href="https://github.com/nickjchin/work-day-scheduler"
+                target="_blank"
+                className="btn btn-primary"
+              >
                 Source Code
               </a>
             </div>
@@ -100,10 +126,18 @@ function Project() {
                 Created using server-side API from OpenWeather API to display the current weather
                 and 5 day forecasts for selected cities
               </p>
-              <a href="#" className="btn btn-primary mr-1">
+              <a
+                href="https://nickjchin.github.io/weather-dashboard"
+                target="_blank"
+                className="btn btn-primary mr-1"
+              >
                 Live Production
               </a>
-              <a href="#" className="btn btn-primary">
+              <a
+                href="https://github.com/nickjchin/weather-dashboard"
+                target="_blank"
+                className="btn btn-primary"
+              >
                 Source Code
               </a>
             </div>
@@ -126,10 +160,18 @@ function Project() {
                 Created using HTML, CSS, Bootstrap, Node and Express. Note Taker is hosted on Heroku
                 and the app allows the user to create and notes.
               </p>
-              <a href="#" className="btn btn-primary mr-1">
+              <a
+                href="https://note-taker-njc.herokuapp.com/"
+                target="_blank"
+                className="btn btn-primary mr-1"
+              >
                 Live Production
               </a>
-              <a href="#" className="btn btn-primary">
+              <a
+                href="https://github.com/nickjchin/note-taker"
+                target="_blank"
+                className="btn btn-primary"
+              >
                 Source Code
               </a>
             </div>
@@ -142,7 +184,9 @@ function Project() {
               <h4>Team Profile Generator</h4>
             </div>
             <img
-              src={"https://nickjchin.github.io/my-portfolio/assets/images/team-profile-genertor.PNG"}
+              src={
+                "https://nickjchin.github.io/my-portfolio/assets/images/team-profile-genertor.PNG"
+              }
               alt="boohoo"
               className="img-responsive"
             />
@@ -153,10 +197,18 @@ function Project() {
                 command-line application that accepts user input to generate their team members and
                 information
               </p>
-              <a href="#" className="btn btn-primary mr-1">
+              <a
+                href="https://nickjchin.github.io/my-portfolio/team.html"
+                target="_blank"
+                className="btn btn-primary mr-1"
+              >
                 Live Production
               </a>
-              <a href="#" className="btn btn-primary">
+              <a
+                href="https://github.com/nickjchin/team-profile-generator"
+                target="_blank"
+                className="btn btn-primary"
+              >
                 Source Code
               </a>
             </div>
