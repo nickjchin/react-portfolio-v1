@@ -49,7 +49,7 @@ function Project() {
             </div>
             <img
               src={"https://nickjchin.github.io/my-portfolio/assets/images/stock-shout.PNG"}
-              alt="boohoo"
+              alt="screenshot of stock shout app"
               className="img-responsive"
             />
             <div className="card-body">
@@ -84,7 +84,7 @@ function Project() {
             </div>
             <img
               src={"https://nickjchin.github.io/my-portfolio/assets/images/workday-scheduler.PNG"}
-              alt="boohoo"
+              alt="screenshot of work day scheduler app"
               className="img-responsive"
             />
             <div className="card-body">
@@ -117,7 +117,7 @@ function Project() {
             </div>
             <img
               src={"https://nickjchin.github.io/my-portfolio/assets/images/weather-dashboard.PNG"}
-              alt="boohoo"
+              alt="screenshot of weather dashboard app"
               className="img-responsive"
             />
             <div className="card-body">
@@ -151,7 +151,7 @@ function Project() {
             </div>
             <img
               src={"https://nickjchin.github.io/my-portfolio/assets/images/note-taker.PNG"}
-              alt="boohoo"
+              alt="screenshot of note taker app"
               className="img-responsive"
             />
             <div className="card-body">
@@ -187,7 +187,7 @@ function Project() {
               src={
                 "https://nickjchin.github.io/my-portfolio/assets/images/team-profile-genertor.PNG"
               }
-              alt="boohoo"
+              alt="screenshot of team profile generator app"
               className="img-responsive"
             />
             <div className="card-body">
